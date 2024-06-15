@@ -1,3 +1,6 @@
+//Time Complexity = O(nlog(n))
+// Space Complexity = O(log(n))
+
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
         String bigger = str1.length() > str2.length() ? str1 : str2;
