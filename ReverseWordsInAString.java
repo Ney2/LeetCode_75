@@ -10,6 +10,6 @@ class Solution {
             }
         }
 
-        return ans;
+        return ans.toString();
     }
 }
